@@ -1,0 +1,87 @@
+﻿
+[
+    {
+        "sku": "teniI",
+        "name": "Tenis Comodo ancho ",
+        "price": "129",
+        "offer": "0.15",
+        "image": "teniI.jpg"
+    },
+    {
+        "sku": "tenisII",
+        "name": "Tenis ultra deportivo",
+        "price": "3899",
+        "offer": "0.41",
+        "image": "tenisII.jpg"
+    },
+    {
+        "sku": "tenisIII",
+        "name": "Tenis Marca Puma",
+        "price": "1150",
+        "offer": "0.30",
+        "image": "tenisIII.jpg"
+    },
+    {
+        "sku": "tenisIV",
+        "name": "Tenis super ergonómico",
+        "price": "120",
+        "offer": "0.66",
+        "image": "tenisIV.jpg"
+    },
+    {
+        "sku": "ZapatillaDeportivaI",
+        "name": "Impresora Ticketera Termica USB LAN 80mm Tickets Facturacion",
+        "price": "435",
+        "offer": "0.19",
+        "image": "ZapatillaDeportivaI.jpg"
+    },
+    {
+        "sku": "ZapatillaDeportivaII",
+        "name": "XP-PEN Star 06 Inalámbrica Tableta Gráfica 10x6 Pulgadas",
+        "price": "449",
+        "offer": "0.32",
+        "image": "ZapatillaDeportivaII.webp"
+    },
+    {
+        "sku": "teniI",
+        "name": "Tenis Comodo ancho ",
+        "price": "129",
+        "offer": "0.15",
+        "image": "teniI.jpg"
+    },
+    {
+        "sku": "tenisII",
+        "name": "Tenis ultra deportivo",
+        "price": "3899",
+        "offer": "0.41",
+        "image": "tenisII.jpg"
+    },
+    {
+        "sku": "tenisIII",
+        "name": "Tenis Marca Puma",
+        "price": "1150",
+        "offer": "0.30",
+        "image": "tenisIII.jpg"
+    },
+    {
+        "sku": "tenisIV",
+        "name": "Tenis super ergonómico",
+        "price": "120",
+        "offer": "0.66",
+        "image": "tenisIV.jpg"
+    },
+    {
+        "sku": "ZapatillaDeportivaI",
+        "name": "Impresora Ticketera Termica USB LAN 80mm Tickets Facturacion",
+        "price": "435",
+        "offer": "0.19",
+        "image": "ZapatillaDeportivaI.jpg"
+    },
+    {
+        "sku": "ZapatillaDeportivaII",
+        "name": "XP-PEN Star 06 Inalámbrica Tableta Gráfica 10x6 Pulgadas",
+        "price": "449",
+        "offer": "0.32",
+        "image": "ZapatillaDeportivaII.webp"
+    }
+]
